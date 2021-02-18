@@ -16,8 +16,7 @@ const Home = () =>{
                             <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter the quiz code here"/>
                             {/* <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div> */}
                             <hr/>
-                            or
-
+                            
                         </div>
                     </div>
                 </form>
